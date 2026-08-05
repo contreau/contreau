@@ -1,13 +1,9 @@
 # ✌️
-I'm Conor, a web dev based in Brooklyn, NY.
+Brooklyn-based web developer working in healthcare.
 
-I do frontend development and provide operational support for the web ecosystem of GW Medicine, an academic medical enterprise.
-
-Dev-wise, I create new UIs and components, custom applications, and automation tools in service of medical patients, faculty, students, and administrators.
-
-Check out [conorkelley.me](https://conorkelley.me) for a better look at my highlighted work and personal projects!
+Check out my pinned repos and [conorkelley.me](https://conorkelley.me) for a better look at my highlighted work.
 
 ---
 * **Languages**: JavaScript/TypeScript, PHP, Python, SQL
-* **Frameworks**: Vue.js, SvelteKit, Drupal
+* **Frameworks**: Vue.js, SvelteKit, Drupal, WordPress
 * **Tools & Runtimes**: Docker, Node.js, Bun, Apache, MySQL, GraphQL
